@@ -20,7 +20,7 @@
 * npms.io
 * FileStack.js
 
-## Our Applicatin: Pepino - built for developpers
+## Our Application: Pepino - built for developpers
 <img width="1439" alt="Screenshot 2019-03-21 at 12 36 58" src="https://user-images.githubusercontent.com/9445433/54752442-09bd5b80-4bd6-11e9-80ee-64854e71fc00.png">
 
 A hosted version of this app can be found at https://wdi-pepino.herokuapp.com
@@ -44,7 +44,13 @@ Once the user is logged in projects can be added. Packages can be searched for a
 
 ![pepino3](https://user-images.githubusercontent.com/9445433/54758412-0630d100-4be4-11e9-8b1a-824ccd0332cc.gif)
 
+### Process
+The development process started with wireframes to workout the functionality that we wanted and what models we would need. As we had three distinct areas we decided that each one of us would work on all the different aspects of one given area, from creating the models and controllers to creating the React.js components and testing.
 
+Work was carried out on branches of the code depository for each feature. This was merged with the Development branch of the code and any merge conflicts were fixed as a group. Features were tested on the Development branch before being merged with the Master branch.
+
+Tasks were managed and assigned through the task manager Trello. We performed daily stand-ups to keep track of progress.
+ 
 
 
 
