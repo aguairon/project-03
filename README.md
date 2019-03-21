@@ -36,6 +36,12 @@ Once they have found the user they were looking they can view their profile page
 
 <img width="1440" alt="Screenshot 2019-03-21 at 13 05 05" src="https://user-images.githubusercontent.com/9445433/54753851-f9a77b00-4bd9-11e9-96c4-d135f0d44268.png">
 
+If it is a project the are looking for a list of all the projects in the system is on the Dicover Projects. This page has the same functionality as the Discover Users page.
+
+<img width="1437" alt="Screenshot 2019-03-21 at 13 12 15" src="https://user-images.githubusercontent.com/9445433/54754248-f95baf80-4bda-11e9-845c-33f3f19d28bb.png">
+
+The user can view only projects made visible by their creators. 
+
 <img width="1440" alt="Screenshot 2019-03-21 at 13 08 38" src="https://user-images.githubusercontent.com/9445433/54754040-776b8680-4bda-11e9-8d9b-83c2c13d7362.png">
 
 
