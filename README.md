@@ -40,7 +40,7 @@ If it is a project the user is looking for a list with all the projects in the s
 
 <img width="1437" alt="Screenshot 2019-03-21 at 13 12 15" src="https://user-images.githubusercontent.com/9445433/54754248-f95baf80-4bda-11e9-845c-33f3f19d28bb.png">
 
-Once the user is logged in projects can be added. Packages can be searched for and added to the project and comments can be done on projects and on packages. All changes done to the project are saved every few seconds. Installed packages and comments are shown on separate tabs.
+Once the user is logged in projects can be added. Packages can be searched for and added to the project. All changes done to the project are saved every few seconds. Comments can be made on projects and on packages.
 
 ![pepino3](https://user-images.githubusercontent.com/9445433/54758412-0630d100-4be4-11e9-8b1a-824ccd0332cc.gif)
 
