@@ -26,4 +26,8 @@
 A hosted version of this app can be found at https://wdi-pepino.herokuapp.com
 
 ### Website overview
-This website allows developers to create all their current and future projects and add the different packages that they will need to build them.
+This website allows developers to both keep track of their projects, and the different packages they need to build them, and find other users or projects.
+
+The user can find other users on the Discover Users tab. This page lists all the users showing their bio, the number of projects they have uploaded so far, the name of their latest one and how many comments they have done. If the user cannot find the user they were looking for they can use the search bar. This will be done automatically while you type every second.
+
+<img width="1440" alt="Screenshot 2019-03-21 at 12 55 21" src="https://user-images.githubusercontent.com/9445433/54753675-8a318b80-4bd9-11e9-8da7-2f1b0508d7ef.png">
