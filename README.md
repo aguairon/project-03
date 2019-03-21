@@ -31,3 +31,11 @@ This website allows developers to both keep track of their projects, and the dif
 The user can find other users on the Discover Users tab. This page lists all the users showing their bio, the number of projects they have uploaded so far, the name of their latest one and how many comments they have done. If the user cannot find the user they were looking for they can use the search bar. This will be done automatically while you type every second.
 
 <img width="1440" alt="Screenshot 2019-03-21 at 12 55 21" src="https://user-images.githubusercontent.com/9445433/54753675-8a318b80-4bd9-11e9-8da7-2f1b0508d7ef.png">
+
+Once they have found the user they were looking they can view their profile page and any of their projects.
+
+<img width="1440" alt="Screenshot 2019-03-21 at 13 05 05" src="https://user-images.githubusercontent.com/9445433/54753851-f9a77b00-4bd9-11e9-96c4-d135f0d44268.png">
+
+<img width="1440" alt="Screenshot 2019-03-21 at 13 08 38" src="https://user-images.githubusercontent.com/9445433/54754040-776b8680-4bda-11e9-8d9b-83c2c13d7362.png">
+
+
