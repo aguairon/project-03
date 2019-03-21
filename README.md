@@ -44,4 +44,8 @@ Only projects made visible by their creators can be viewed.
 
 <img width="1440" alt="Screenshot 2019-03-21 at 13 08 38" src="https://user-images.githubusercontent.com/9445433/54754040-776b8680-4bda-11e9-8d9b-83c2c13d7362.png">
 
+Once the user is logged in projects can be added and when this is done packages can be searched for and added to the project. Installed packages are shown in a separate tab. All changes are saved every few seconds.
+
+![pepino3](https://user-images.githubusercontent.com/9445433/54758412-0630d100-4be4-11e9-8b1a-824ccd0332cc.gif)
+
 
