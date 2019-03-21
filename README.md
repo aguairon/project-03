@@ -50,7 +50,15 @@ The development process started with wireframes to workout the functionality tha
 Work was carried out on branches of the code depository for each feature. This was merged with the Development branch of the code and any merge conflicts were fixed as a group. Features were tested on the Development branch before being merged with the Master branch.
 
 Tasks were managed and assigned through the task manager Trello. We performed daily stand-ups to keep track of progress.
+
+### Individual inputs / wins
+I was in charge of the project side of the website's functionality. For me the greatest win was creating a project edit form with the look and feel of a normal view page. If the user was not logged in or was not the owner of the project being viewed all the fields of the form are disabled and it does not look like a form. However, if they are logged in and the owner then they just need to click on a field to make it active. 
+
+### Challenges
+This was the a group project and this introduced the potential to create conflicts when merging code and also maintaining a consistent project vision. We minimised merge conflicts by working on different features but when these happened we resolved them as a group.
  
+ ### Future Features
+ If we had more time we would like to have made the site even more social with the ability to like a project and follow users.
 
 
 
