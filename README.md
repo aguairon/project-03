@@ -32,7 +32,7 @@ Other users can be found on the Discover Users tab. This page lists all the user
 
 <img width="1440" alt="Screenshot 2019-03-21 at 12 55 21" src="https://user-images.githubusercontent.com/9445433/54753675-8a318b80-4bd9-11e9-8da7-2f1b0508d7ef.png">
 
-The profile details and all their visible projects are visible on their user profile page.
+The profile details and all their visible projects are available on their user profile page.
 
 <img width="1440" alt="Screenshot 2019-03-21 at 13 05 05" src="https://user-images.githubusercontent.com/9445433/54753851-f9a77b00-4bd9-11e9-96c4-d135f0d44268.png">
 
@@ -40,12 +40,14 @@ If it is a project the user is looking for a list with all the projects in the s
 
 <img width="1437" alt="Screenshot 2019-03-21 at 13 12 15" src="https://user-images.githubusercontent.com/9445433/54754248-f95baf80-4bda-11e9-845c-33f3f19d28bb.png">
 
-Only projects made visible by their creators can be viewed.
-
-<img width="1440" alt="Screenshot 2019-03-21 at 13 08 38" src="https://user-images.githubusercontent.com/9445433/54754040-776b8680-4bda-11e9-8d9b-83c2c13d7362.png">
-
-Once the user is logged in projects can be added and when this is done packages can be searched for and added to the project. Installed packages are shown in a separate tab. All changes are saved every few seconds.
+Once the user is logged in projects can be added. Packages can be searched for and added to the project and comments can be done on projects and on packages. All changes done to the project are saved every few seconds. Installed packages and comments are shown on separate tabs.
 
 ![pepino3](https://user-images.githubusercontent.com/9445433/54758412-0630d100-4be4-11e9-8b1a-824ccd0332cc.gif)
+
+
+
+
+
+
 
 
