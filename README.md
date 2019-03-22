@@ -14,7 +14,7 @@
 * Bulma CSS Framework & SCSS
 * Chai/Mocha/Supertest
 * Bluebird
-* request-promise/axio
+* request-promise/axios
 
 ## External APIs
 * npms.io
