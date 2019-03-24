@@ -1,5 +1,5 @@
 # General Assembly Project 3 : Pepino - built for developpers.
-## Goal - to build a full-stack RESTful MERN application. A group project: Collaborators: Siddant Gurung, James Benson, Begona Fernandez
+## Goal - to build a full-stack RESTful application. A group project: Collaborators: Siddant Gurung, James Benson, Begona Fernandez
 
 ### Timeframe
 7 days
@@ -11,7 +11,7 @@
 * Git / GitHub
 * MongoDB & Mongoose
 * BCrypt & Session Auth
-* Bulma CSS Framework & SCSS
+* Bulma CSS Framework
 * Chai/Mocha/Supertest
 * Bluebird
 * request-promise/axios
