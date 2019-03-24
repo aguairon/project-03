@@ -52,7 +52,7 @@ Work was carried out on branches of the code depository for each feature. This w
 Tasks were managed and assigned through the task manager Trello. We performed daily stand-ups to keep track of progress.
 
 ### Individual inputs / wins
-I was in charge of the project side of the website's functionality. For me the greatest win was creating a project edit form with the look and feel of a normal view page. If the user was not logged in or was not the owner of the project being viewed all the fields of the form are disabled and it does not look like a form. However, if they are logged in and the owner then they just need to click on a field to make it active. 
+I was in charge of the side of the website that dealt with the project functionality. For me the greatest win was creating a project edit form with the look and feel of a normal view page. If the user was not logged in or was not the owner of the project being viewed all the fields of the form are disabled and it does not look like a form. However, if they are logged in and the owner then they just need to click on a field to make it active. 
 
 ### Challenges
 This was the a group project and this introduced the potential to create conflicts when merging code and also maintaining a consistent project vision. We minimised merge conflicts by working on different features but when these happened we resolved them as a group.
